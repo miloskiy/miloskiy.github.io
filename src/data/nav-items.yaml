@@ -1,9 +1,46 @@
 - title: Getting started
   pages:
     - path: /getting-started
-- title: Demo
+- title: About the design system
   pages:
-    - path: /demo
+    - title: What is design system
+      path: /guides/configuration
+    - title: Our design system model
+      path: /guides/configuration
+    - title: Our design system structure
+      path: /guides/configuration
+    - title: Who owns design system
+      path: /guides/configuration     
+- title: Designing
+  pages:
+    - title: Overview
+      path: /guides/configuration
+    - title: How to get started
+      path: /guides/configuration
+    - title: Get help
+      path: /guides/configuration 
+- title: Developing
+  pages:
+    - title: Overview
+      path: /guides/configuration
+    - title: How to get started
+      path: /guides/configuration
+    - title: Get help
+      path: /guides/configuration 
+- title: Contributing
+  pages: 
+     - title: Overview
+      path: /guides/configuration
+     - title: Bugs & requests
+      path: /guides/configuration
+     - title: Documentation
+      path: /guides/configuration 
+     - title: Tokens
+      path: /guides/configuration
+     - title: Components
+      path: /guides/configuration
+     - title: Get Help
+      path: /guides/configuration
 - title: Gallery
   pages:
     - path: /gallery
