@@ -1,46 +1,48 @@
-- title: Getting started
+- title: Welcome
   pages:
-    - path: /getting-started
+    - path: /welcome
 - title: About the design system
   pages:
     - title: What is design system
-      path: /guides/configuration
+      path: /about/what-is
     - title: Our design system model
-      path: /guides/configuration
+      path: /about/ds-model
     - title: Our design system structure
-      path: /guides/configuration
+      path: /about/ds-structure
     - title: Who owns design system
-      path: /guides/configuration     
+      path: /about/owners
 - title: Designing
   pages:
     - title: Overview
-      path: /guides/configuration
+      path: /designing/overview
     - title: How to get started
-      path: /guides/configuration
+      path: /designing/get-started
     - title: Get help
-      path: /guides/configuration 
+      path: /designing/get-help
 - title: Developing
   pages:
     - title: Overview
-      path: /guides/configuration
+      path: /developing/overview
     - title: How to get started
-      path: /guides/configuration
+      path: /developing/get-started
     - title: Get help
-      path: /guides/configuration 
+      path: /developing/get-help
 - title: Contributing
   pages: 
-     - title: Overview
-      path: /guides/configuration
-     - title: Bugs & requests
-      path: /guides/configuration
-     - title: Documentation
-      path: /guides/configuration 
-     - title: Tokens
-      path: /guides/configuration
-     - title: Components
-      path: /guides/configuration
-     - title: Get Help
-      path: /guides/configuration
+    - title: Contribution model
+      path: /contributing/our-model
+    - title: Bugs & requests
+      path: /contributing/bugs
+    - title: Documentation
+      path: /contributing/docs 
+    - title: Tokens
+      path: /contributing/tokens
+    - title: Components
+      path: /contributing/components
+    - title: Get help
+      path: /contributing/get-help
+  includeDividerSpace: true
+  hasDivider: true   
 - title: Gallery
   pages:
     - path: /gallery

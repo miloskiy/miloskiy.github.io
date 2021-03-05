@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
-    title: "Gatsby Theme Carbon",
-    description: "A Gatsby theme for the carbon design system",
+    title: "GYG design system",
+    description: "Design system for GetYourGuide",
     keywords: "gatsby,theme,carbon",
   },
   plugins: [
@@ -13,7 +13,7 @@ module.exports = {
         short_name: "Gatsby Theme Carbon",
         start_url: "/",
         background_color: "#ffffff",
-        theme_color: "#0062ff",
+        theme_color: "#FF5533",
         display: "browser",
       },
     },
